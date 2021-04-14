@@ -1,1 +1,2 @@
 # Parkinson-s-Detection
+Project descriptionAn AI based mobile application which is able to diagnose the Parkinson's Disease using two independent tests that require only a pencil and a paper. Based on 2017 research paper Distinguishing Different Stages of Parkinson's Disease Using Composite Index of Speed and Pen-Pressure of Sketching a Spiral by Zham et. al. The trained models were deployed using a Flask backend server, along with a Flutter based frontend mobile application frontend to interact with the REST API.
