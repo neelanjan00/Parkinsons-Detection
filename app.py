@@ -49,6 +49,9 @@ def preprocess_image(filestr):
                           cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU)[1]
     return quantify_image(image)
 
+@app.route('/', methods=['GET'])
+def base():
+	return "<h1>Parkinson's AI<h1>"
 
 @app.route('/spiral', methods=['POST'])
 def base_spiral():
