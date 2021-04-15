@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/neelanjan-manna.appspot.com/o/project-images%2FParkinsons.jpeg?alt=media&token=bfc30979-5645-42fd-958d-0858b0bd217a" width="300" />
+<img src="https://firebasestorage.googleapis.com/v0/b/neelanjan-manna.appspot.com/o/project-images%2FParkinsons.jpeg?alt=media&token=bfc30979-5645-42fd-958d-0858b0bd217a" width="400" />
 <h1 align="center">Welcome to Parkinsons AI 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
